@@ -1,0 +1,13 @@
+REPORTE DE EJECUCIÓN ETL
+-----------------------------
+Nombre del alumno: Erick Humberto Teja Carvajal
+Fecha: 2026-07-05 16:25:24.120152
+Archivo: prestamos_biblioteca_100.csv
+Filas leídas: 100
+Filas cargadas: 98
+Filas rechazadas: 2
+Estado: FINALIZADO_CON_ERRORES
+
+Errores detectados:
+- ID 5099 -> total_multa incorrecto
+- ID 5002 -> id_prestamo duplicado
